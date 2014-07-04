@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Sample XML for testing -->
+<rootNode prop1="Property One" prop2="Property Two">
+
+  <first>
+    <a>A VALUE</a>
+    <b>B VALUE</b>
+    <c>C VALUE</c>
+  </first>
+
+  <first>
+    <a>A VALUE</a>
+    <b>B VALUE</b>
+  </first>
+
+  <cheese>QUESO1</cheese>
+  <cheese>QUESO2</cheese>
+  <cheese>QUESO3</cheese>
+  <cheese>QUESO4</cheese>
+
+</rootNode>  
